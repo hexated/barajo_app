@@ -7,6 +7,6 @@ Aplikasi Barajo
 
 
 ### Barajo Tutor.apk : Aplikasi untuk Tutor
-<img src="https://user-images.githubusercontent.com/37908684/114871495-878ada00-9e23-11eb-9648-9250fa41d2f8.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/37908684/114871495-878ada00-9e23-11eb-9648-9250fa41d2f8.png" width="270" height="500">
 
 
